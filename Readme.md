@@ -18,8 +18,14 @@ link: https://dasm-assembler.github.io/
 
 ## Assemble dasm file
 
+first assemble the code.asm
 ```
 dasm filename.asm -f3 -v0 -ocart.bin
+```
+next remember to give the execution permission to the cart.bin file generate:
+
+```
+chmod +x cart.bin
 ```
 
 ### Install Stella
