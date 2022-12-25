@@ -1,6 +1,6 @@
 # Atari 2600 Programming with 6502 Assembly
 
-I high recommend any Pikuma course to anyone that have the interest to learn some low level programming stuffs.
+I high recommend any [Pikuma](https://pikuma.com/) course to anyone that have the interest to learn some low level programming stuffs.
 
 <br>
 
